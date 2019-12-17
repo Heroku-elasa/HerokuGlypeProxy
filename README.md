@@ -12,9 +12,16 @@
 ==> Script Information
 My own config of Glype PHP proxy for Heroku
 
-## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Installation
+
+Use the Deploy to Heroku button, or use the old fashioned way described below.
+
+<a href="https://heroku.com/deploy?template=https://github.com/Heroku-elasa/HerokuGlypeProxy/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy">
+</a>
+
+
 
 ##  Or do this in remote server like https://codeanywhere.com/editor/
 
